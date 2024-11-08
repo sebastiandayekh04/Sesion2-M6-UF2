@@ -1,0 +1,15 @@
+{
+  "name": "sesion-anuario",
+  "version": "1.0.0",
+  "description": "1. Creamos carpeta del proyecto dos con el readme\r 2. Inicializamos con el nmp init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
